@@ -1,6 +1,6 @@
 # CV2
 
-Worked on the basics of CV@ module in python
+Worked on the basics of CV2 module in python
  - reading images and video
  - Resizing and rescaling
  - Drawing and inserting text
